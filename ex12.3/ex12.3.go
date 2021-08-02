@@ -9,4 +9,6 @@ func main() {
 		fmt.Println(v)
 	}
 
+	fmt.Println(t[1])
+
 }
